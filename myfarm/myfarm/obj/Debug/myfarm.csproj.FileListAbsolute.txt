@@ -1,0 +1,11 @@
+C:\Users\liamelui\Desktop\OOP\myfarm_csharp\myfarm\myfarm\bin\Debug\myfarm.exe.config
+C:\Users\liamelui\Desktop\OOP\myfarm_csharp\myfarm\myfarm\bin\Debug\myfarm.exe
+C:\Users\liamelui\Desktop\OOP\myfarm_csharp\myfarm\myfarm\bin\Debug\myfarm.pdb
+C:\Users\liamelui\Desktop\OOP\myfarm_csharp\myfarm\myfarm\obj\Debug\myfarm.csproj.AssemblyReference.cache
+C:\Users\liamelui\Desktop\OOP\myfarm_csharp\myfarm\myfarm\obj\Debug\myfarm.Properties.Resources.resources
+C:\Users\liamelui\Desktop\OOP\myfarm_csharp\myfarm\myfarm\obj\Debug\myfarm.csproj.GenerateResource.cache
+C:\Users\liamelui\Desktop\OOP\myfarm_csharp\myfarm\myfarm\obj\Debug\myfarm.csproj.CoreCompileInputs.cache
+C:\Users\liamelui\Desktop\OOP\myfarm_csharp\myfarm\myfarm\obj\Debug\myfarm.exe
+C:\Users\liamelui\Desktop\OOP\myfarm_csharp\myfarm\myfarm\obj\Debug\myfarm.pdb
+C:\Users\liamelui\Desktop\OOP\myfarm_csharp\myfarm\myfarm\obj\Debug\myfarm.GardenForm.resources
+C:\Users\liamelui\Desktop\OOP\myfarm_csharp\myfarm\myfarm\obj\Debug\myfarm.SeedShopForm.resources
